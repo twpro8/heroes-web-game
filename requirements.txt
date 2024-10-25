@@ -1,0 +1,4 @@
+fastapi[all]
+sqlalchemy
+alembic
+psycopg2-binary (if unix else psycopg2)
