@@ -1,0 +1,52 @@
+div.page_game_chat_index ul.block li {padding: 4px 0;overflow: hidden;}
+
+div.page_visitor_index #header ul li.title {color:#CE793E;font-size:medium !important;}
+div.page_visitor_index .header a.button_big {margin-top: 10px;}
+div.page_visitor_index p {padding: 8px 17px 8px 21px!important;}
+div.page_visitor input.text{margin-bottom: 5px;}
+div ul.login {padding-left: 21px;}
+div ul.login label{width: 150px;}
+div.page_visitor_index h3 {margin: 7px 0pt 0pt!important;}
+div.page_visitor_index form{margin-left: 15px;}
+div.page_visitor_index form .button_small {margin-left: 60px;}
+.check_box {text-align: left;}
+
+div.page_visitor_register_quest_fight_details ul.links {padding:1px 0 10px 0;}
+div.page_visitor_register_quest_fight_details ul.links li a {padding-left: 13px;display: inline-block;vertical-align:middle;}
+div.page_visitor_register_quest_fight_details ul.links li {background-image:url("/static/img/gui/icon_arrow.png");background-position:9px 50%;background-repeat:no-repeat;border-bottom:1px dotted #D67034;min-height:25px;}
+
+div.page_game_pet_buy img {margin-bottom: 5px;}
+div.page_game_staff_sms_if span.operators {text-align: center; margin: auto 20px;}
+
+div.page_game_staff_sms ul.items li div {padding-left: 10px;}
+/*body.agent_ucweb {background-color: red; color: red}*/
+
+div.page_game_staff_index div.your_staff {padding:0 9px;font-weight: bold}
+div.page_game_staff_index div.header p {padding-bottom: 0px !important;}
+div.page_game_staff_index div.header {margin-bottom: 2px!important;}
+div.page_game_staff_index h3 {margin:13px 0 0!important;}
+div.footer {color: black}
+div.mts_header {background-color:#961a1d; border-bottom: 1px solid #560105;}
+div.mts_footer {background-color: white; border-top: 1px solid #BBC4CB; color: #6A7A87; padding: 4px;font-size: small; font-family: sans-serif;}
+div.mts_footer a {color: #6A7A87; font-weight: normal; outline: none; text-decoration: none;}
+
+/* landing page */
+div.page_visitor_landing form {width: 97%;margin: auto}
+div.page_visitor_landing form label {text-align: left;display: block;font-weight: bold; margin: 0 0 2px 3px;}
+div.page_visitor_landing input#user_submit {text-align: center;}
+div.page_visitor_landing select {width: 100%;height: 20px;padding: 1px 0 0;}
+div.page_visitor_landing input.text{padding: 1px 0 2px 3px;margin-bottom: 1px;}
+div.page_visitor_landing form small {display: block;text-align: left;margin-left: 3px;}
+div.page_visitor_landing form input.button_big {padding-bottom: 3px}
+div.page_visitor_landing .rules {border-top:1px dashed #a46101;display: block; margin: 2px 0 0;padding: 5px 0 0 17px;}
+div.page_visitor_landing .rules a{text-decoration: underline}
+div.page_visitor_landing h3 {margin: 11px 0 0!important;}
+div.page_visitor_landing div.block {padding: 3px 18px 8px 18px !important;}
+div.page_visitor_landing span.error {text-align: left; display: block;padding: 0px 0px 0px 3px;color: #CC2B2B;}
+div.page_visitor_rq2_chief span.error {text-align: left; display: block;padding: 0px 0px 0px 3px;color: #CC2B2B;}
+
+div.page_game_staff_index_owned_mailru ol li {text-align: left; margin-left: 26px;margin-top: 5px;padding-right: 10px;}
+div.page_game_staff_index_owned_mailru .navigation li {border-top:none }
+span.mailru_price {display: inline-block !important;margin: 7px 0 0 8px !important;}
+div.page_game_staff_index_owned_mailru .block_header h3 {margin: 10px 0 0!important;}
+div.page_visitor_register_quest_fight_details ul.links li a{display: block;padding:5px 5px 6px 30px;}

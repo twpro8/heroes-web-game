@@ -1,0 +1,10 @@
+
+docker run -p 5432:5432 --name pg_trading -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=postgres -e POSTGRES_DB=postgres -d postgres
+Включить pgAdmin через docker:
+docker run -e 'PGADMIN_DEFAULT_EMAIL=admin@admin.admin' -e 'PGADMIN_DEFAULT_PASSWORD=admin' -d dpage/pgadmin4
+(Обратите внимание, что при запуске в контейнере ip базы данных сменится. У меня на ubuntu это 172.17.0.1, у вас может быть другой.)
+
+alembic:
+alembic init migrations
+alembic revision --autogenerate -m "Discription"
+alembic upgrade head
